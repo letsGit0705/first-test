@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Hello world!");
+	printf("Hello world!\n");
+	printf("Hi ~letsGit0705\n");
 	return 0;
 }
